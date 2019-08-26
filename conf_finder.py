@@ -74,6 +74,8 @@ def broken_conf(x,step_len, *args, **kwargs):
     
     >>> from conf_finder import broken_conf
     >>> broken_conf(x,5,P=0.95, show=True )
+    
+    Created 25th August 2019 by Tishtrya Mehta
     """
     
     
